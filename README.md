@@ -7,7 +7,7 @@ A personal and business expense tracker that works offline-first with optional c
 **[Try the demo](https://demo.pancakemaker.com)** — explore with 7 pre-built spending personas, no sign-up needed.
 
 ## Features
-
+ 
 - **Offline-first** — All data stored locally in wa-sqlite (IndexedDB-backed). Works without a network connection. No account required
 - **Privacy by default** — Your data lives on your device. Cloud sync is opt-in, never forced
 - **Open-source** — MIT licensed. Audit the code, self-host, or contribute
